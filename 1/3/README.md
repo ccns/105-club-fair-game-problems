@@ -4,6 +4,7 @@ DC在想flag的時候不小心吸ㄎ一ㄤ了
 回過神來的時候已經變成這樣了    
 但他很確定這裡面有flag，要怎麼才能找出來呢？
 
-Hint: :s
+Hint1: :s
+Hint2: What is the latter case of flag prefix and postfix?
 
 dcqasdf33as3weifdi3mcc5Cc14c312cn2ss12ffdsawHwww123r4dddd4de2fer5t686qsI50wrcdd4s3C56q4w68t67K0asfwEtwf0a8Nfw7:84t56q7w3erDf5q76wOf9a6sdf 3q4w62eYd24f3Ow3qyyyU3qwe6r 8fsaWq9w45A2d3d4dNf4qwT46fqwe3f45 6qw75e78fSqw94fe76O2q2M45weE2f34s 6zCzt6587O75Me632qwfM3a4s5df6A7wq7e2r3y4e5N324f5D7sqw?8re7t6we5ywe1:4a4f5r23A4vew23y6t2y34u5cTe1y23rT12h4r32tA6revt3y45C63w47Ke2tr42w5r636
