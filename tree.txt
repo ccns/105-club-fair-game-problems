@@ -1,0 +1,49 @@
+.
+├── 0
+│   └── 0
+│       └── README.md
+├── 1
+│   ├── 1
+│   │   ├── ADM-3A
+│   │   └── README.md
+│   └── 3
+│       └── README.md
+├── 2
+│   ├── 1
+│   │   ├── C47C# 7#3 C#iCX3^ 🐔
+│   │   └── README.md
+│   ├── 2
+│   │   ├── Did you see anything?
+│   │   └── README.md
+│   └── 3
+│       ├── brain fuck fuck and fuck.bf
+│       └── README.md
+├── 3
+│   ├── 1
+│   │   └── README.md
+│   ├── 2
+│   │   └── README.md
+│   ├── 3
+│   │   └── README.md
+│   ├── 4
+│   │   └── README.md
+│   └── 5
+│       └── README.md
+├── 4
+│   └── 1
+│       ├── README.md
+│       └── startup.exe
+├── 5
+│   └── 1
+│       └── README.md
+├── 6
+│   └── 1
+│       ├── ccnsLogo.png
+│       └── README.md
+├── 7
+│   └── 1
+│       └── README.md
+├── README.md
+└── tree.txt
+
+23 directories, 23 files
