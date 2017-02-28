@@ -39,7 +39,15 @@ void mazeInit(char maze[][maze_cols])
 
 void printMaze(char maze[][maze_cols])
 {
-	for(int i = 0; i < maze_rows; i++) printf("%s\n", maze[i]);
+	for(int i = 0; i < maze_rows; i++) {
+		int len = strlen(maze[i]);
+		for(int j = 0; j < len; j++) {
+			if(maze[i][j] == '@') printf("%s", "\033[33m@\033[0m");
+			else if(maze[i][j] == 'K') printf("%s", "\033[36mK\033[0m");
+			else putchar(maze[i][j]);
+		}
+		putchar('\n');
+	}
 }
 
 void teleport(int& row, int& col)
