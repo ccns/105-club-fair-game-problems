@@ -10,24 +10,24 @@ B 8
 C (    
 D )    
 E 3    
-F v ƒ    
+F v    
 G 6    
 H #    
 I ! 1    
 J ¿    
 K X    
-L 1 £    
+L 1    
 M W m    
 N ^ n    
 O 0    
 P 9 p    
 Q Q    
 R 2    
-S 5 $    
+S 5    
 T 7    
 U V    
 V V    
 W M    
 X ?    
-Y 7 ¥    
+Y 7 j    
 Z 2    
