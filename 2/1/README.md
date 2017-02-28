@@ -22,7 +22,7 @@ N ^
 O 0    
 P 9    
 Q Q    
-R 2    
+R r    
 S 5    
 T 7    
 U V    
