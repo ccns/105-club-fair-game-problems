@@ -13,14 +13,14 @@ E 3
 F v    
 G 6    
 H #    
-I ! 1    
-J ¿    
+I !    
+J J    
 K X    
 L 1    
-M W m    
-N ^ n    
+M W    
+N ^    
 O 0    
-P 9 p    
+P 9    
 Q Q    
 R 2    
 S 5    
