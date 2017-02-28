@@ -10,7 +10,7 @@ B 8
 C (    
 D )    
 E 3    
-F v    
+F f    
 G 6    
 H #    
 I !    
@@ -25,8 +25,8 @@ Q Q
 R r    
 S 5    
 T 7    
-U V    
-V V    
+U v    
+V v    
 W M    
 X ?    
 Y 7 j    
