@@ -8,5 +8,5 @@
 
 WIHLUMQ:HOWH AI HAX?:ICKNIO
 
-Hint1: Check the pdf file in this folder.
+Hint1: Check the pdf file in this folder.    
 Hint2: CNS
