@@ -6,6 +6,7 @@
 
 以下這段訊息來自二戰時的德國海軍，但經過Enigma加密過，訊息傳送的日期是這學期社博的第一天，你能將他破解嗎？
 
-SQWUICG:LGZR YZ ETA?:KDQUXE
+WIHLUMQ:HOWH AI HAX?:ICKNIO
 
-Hint: Check the pdf file in this folder.
+Hint1: Check the pdf file in this folder.
+Hint2: CNS
