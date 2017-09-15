@@ -1,1 +1,1 @@
-hint: http://ppt.cc/SQB3l
+hint: https://copy.sh/brainfuck
